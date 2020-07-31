@@ -1,0 +1,171 @@
+
+body{
+  color: #40514e;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin: 50 auto;
+  font-family: 'Merienda One', cursive;
+  font-family: 'Shadows Into Light', cursive;
+  font-size:5.625rem;
+  color: #66BFBF;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4 rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+  margin-top: 90px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #46B6D6;
+}
+#top-container{
+  background-color:#e4f9f5;
+  padding-top: 100px;
+
+}
+.mountain{
+  height: 500px;
+  width: 700px;
+ margin:0 auto ;
+ padding-top: 100px;
+ margin-left: 10px;
+ border-radius: 100%;
+}
+.cloud{
+  height:150px;
+  width: 200px;
+
+}
+
+.lower{
+  position: absolute;
+  left: 9rem;
+  bottom: 200px;
+
+}
+.upper{
+  position: absolute;
+  left: 900px;
+  bottom: 400px;
+
+}
+.im1{
+  margin-top: 200px;
+  border-radius: 100%;
+}
+.web{
+  float: left;
+  margin-right: 40px;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 200px;
+  border-radius: 100%;
+}
+.flutter{
+
+  height: 300px;
+  width: 600px;
+  margin-top: 160px;
+
+}
+.burger{
+  height: 300px;
+  width:300px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  border-radius: 100%;
+
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px  auto;
+  text-align: left;
+
+}
+
+.bottom-container{
+  margin-top: 200px;
+  background-color: #66bfbf;
+  padding: 50px;
+}
+p{
+   line-height: 2;
+}
+hr{
+  border: dotted #eaf6f6 9px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100 auto;
+  clear: both;
+
+}
+.contact-message{
+  width: 40%;
+  margin:  auto ;
+  margin-bottom: 90px;
+}
+.btn {
+  margin-bottom: 90px;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+/* hello */
+.btn:hover {
+  background: #24a19c;
+  text-decoration: none;
+}
+a{
+  color: #11999E;
+  font-family: sans-serif;
+  margin: 30px 70px;
+  text-decoration: none;
+}
+a:hover{
+  color: azure;
+}
+
+.copy{
+  padding: 70px 0;
+  color: aliceblue;
+}
+.burger  {
+   margin-top: 250px;
+
+}
+.burg{
+  margin-top: 250px;
+}
+.flutter{
+  margin-top: 80px;
+}
+.Ai{
+  float: right;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 200px;
+  border-radius: 100%;
+}
